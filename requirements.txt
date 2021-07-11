@@ -10,8 +10,6 @@ importlib-metadata
 joblib 
 kiwisolver
 matplotlib
-mkl-random 
-mkl-service
 nltk 
 numexpr 
 numpy 
